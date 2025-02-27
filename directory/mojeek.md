@@ -14,7 +14,7 @@ classifications:
 
 "The alternative search engine that does what’s right, that values and respects your privacy, whilst providing results that we have crawled and indexed with tech built in-house."
 
-{{< link-preview "https://www.mojeek.com/about/" >}}
+https://www.mojeek.com/about/"
 
 ## Details
 
